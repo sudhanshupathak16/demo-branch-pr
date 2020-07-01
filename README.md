@@ -9,3 +9,7 @@ post push we will be making a branch
 and will switch to that branch
 
 make changes in that branch and then compare both the branches
+
+==================================================================
+
+Finally got desired result through features
